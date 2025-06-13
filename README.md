@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/fredysangaritav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristian-angarita-86343a235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NocmJ2bGY4ZTk2cWJza3lsam50dno4Y3pubWtmYnp5ZWdmNXR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="30px">&nbsp;***About me***
 
